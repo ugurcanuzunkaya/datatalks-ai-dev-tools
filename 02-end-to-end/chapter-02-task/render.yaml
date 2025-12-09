@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: coding-interview
+    env: python
+    buildCommand: |
+      npm install --prefix frontend
+      npm run build --prefix frontend
+      pip install uv
+      uv pip install --system -r backend/pyproject.toml
+      cp -r frontend/dist backend/static
+    startCommand: cd backend && uv run uvicorn src.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0

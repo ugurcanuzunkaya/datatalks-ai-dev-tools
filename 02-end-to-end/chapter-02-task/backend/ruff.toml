@@ -1,0 +1,4 @@
+[lint]
+select = ["E", "F", "I"]
+fixable = ["ALL"]
+exclude = [".venv", ".git", "__pycache__"]

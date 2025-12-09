@@ -28,9 +28,9 @@ Here is what I'm learning and building in each module:
 *   **My Tasks:**
     *   [x] [Django TODO App](01-overview/chapter-01-task/README.md): Built a simple TODO app using Django and AI assistance.
 
-### Module 2 — [End-to-End Project (Snake)](02-end-to-end/)
+### Module 2 — [End-to-End Project (Coding Interview Platform)](02-end-to-end/)
 
-*   **Topic:** Building a Snake game with React/TS and FastAPI.
+*   **Topic:** Building a Real-time Coding Interview Platform with React, FastAPI, Socket.IO, and Pyodide.
 *   **My Notes:** [Chapter 2 Notes](02-end-to-end/chapter-02-notes/)
 *   **My Task:** [Chapter 2 Task](02-end-to-end/chapter-02-task/)
 
