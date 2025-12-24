@@ -32,13 +32,13 @@ Here is what I'm learning and building in each module:
 
 *   **Topic:** Building a Real-time Coding Interview Platform with React, FastAPI, Socket.IO, and Pyodide.
 *   **My Notes:** [Chapter 2 Notes](02-end-to-end/chapter-02-notes/)
-*   **My Task:** [Chapter 2 Task](02-end-to-end/chapter-02-task/)
+*   [x] [Chapter 2 Task](02-end-to-end/chapter-02-task/README.md): Built a Real-time Coding Interview Platform with React, FastAPI, Socket.IO, and Pyodide.
 
 ### Module 3 — [Model-Context Protocol](03-mcp/)
 
 *   **Topic:** Enhancing AI assistants with MCP servers (GitHub, Database, etc.).
 *   **My Notes:** [Chapter 3 Notes](03-mcp/chapter-03-notes/)
-*   **My Task:** [Chapter 3 Task](03-mcp/chapter-03-task/)
+*   [x] [Chapter 3 Task](03-mcp/chapter-03-task/README.md): Implemented a FastMCP server with custom tools for math, web scraping, and documentation search.
 
 ### Module 4 — [Build an AI Coding Agent (for Django)](04-build-coding-agent/)
 
